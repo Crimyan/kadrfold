@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "- Pobieranie modeli mowy i tłumaczenia działa na każdym dysku (wcześniej blokowało folder danych na C:). Program najpierw sprawdza wolne miejsce.",
+  "pub_date": "2026-11-26T11:05:36Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNFU2MW45VWphQU1LK3hDZWt4azhQVzgzZjJyOWpEMlBJVUFkdTZqWUdRVGd2QUZjYWVaZTVBcjYyNlhITWhKcENuQmV4YThha1lyZ3pyMmM0T1N3dkhGYStoQ2RKSmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjkxMDk0CWZpbGU6S2FkcmZvbGRfMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCi9VczY0Y3FSR3dGaFZrSFpMaWh6T09BcUoyL0pxN2ZGSkwyaFpBNlh4NU9udno2SjlvYld3cEt2cGlkY2NUYlBBdnBvT29DSFJ5L1hmMXhxbDRvSURRPT0K",
+      "url": "https://github.com/Crimyan/kadrfold/releases/download/v0.1.1-beta/Kadrfold_0.1.1_x64-setup.exe"
+    }
+  }
+}
