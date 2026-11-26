@@ -1,0 +1,34 @@
+Kadrfold - Licencja użytkownika / End User License
+Copyright (c) 2026 Crimyan. Wszelkie prawa zastrzeżone. All rights reserved.
+
+=== POLSKI ===
+
+1. Kadrfold (dalej „Program”) jest w wersji beta udostępniany bezpłatnie. Możesz go pobrać, zainstalować
+   i używać na dowolnej liczbie własnych komputerów, także do pracy zarobkowej.
+2. Program nie jest programem o otwartym kodzie. Nie wolno go dekompilować, deasemblować ani w inny sposób
+   odtwarzać jego kodu źródłowego, z wyjątkiem przypadków, na które wprost pozwala prawo.
+3. Nie wolno sprzedawać Programu, wynajmować go ani rozpowszechniać za opłatą, ani podawać go jako własny.
+   Program pobieraj z oficjalnej strony: https://github.com/Crimyan/kadrfold
+4. Program jest dostarczany „tak jak jest”, bez żadnej gwarancji, w tym gwarancji przydatności do określonego
+   celu. Autor nie odpowiada za szkody wynikłe z używania Programu, w tym za utratę danych lub nagrań,
+   w zakresie, w jakim pozwala na to prawo. Rób kopie zapasowe ważnych projektów i nagrań.
+5. Program zawiera komponenty firm trzecich (m.in. FFmpeg na licencji LGPL) i może na Twoje żądanie pobierać
+   modele rozpoznawania mowy i tłumaczenia. Te komponenty podlegają własnym licencjom, wymienionym w pliku
+   THIRD-PARTY-NOTICES.txt i w oknie Pomoc → O programie i licencje. Niniejsza licencja ich nie ogranicza.
+6. Autor może zmienić te warunki w kolejnych wersjach Programu. Używanie nowej wersji oznacza zgodę na jej warunki.
+
+=== ENGLISH ===
+
+1. Kadrfold (the "Software") is provided free of charge during the beta. You may download, install and use it
+   on any number of your own computers, including for commercial work.
+2. The Software is not open source. You may not decompile, disassemble or otherwise reverse engineer it,
+   except where the law expressly allows it.
+3. You may not sell, rent or distribute the Software for a fee, or present it as your own.
+   Download it from the official page: https://github.com/Crimyan/kadrfold
+4. The Software is provided "as is", without warranty of any kind, including fitness for a particular purpose.
+   To the extent permitted by law, the author is not liable for any damage resulting from its use, including
+   loss of data or recordings. Keep backups of important projects and recordings.
+5. The Software contains third-party components (including FFmpeg under the LGPL) and can, at your request,
+   download speech recognition and translation models. These components are subject to their own licenses,
+   listed in THIRD-PARTY-NOTICES.txt and in Help → About and licenses. This license does not restrict them.
+6. The author may change these terms in future versions. Using a new version means you accept its terms.

@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "- First public beta of Kadrfold",
+  "pub_date": "2026-11-26T10:35:51Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNFU2MW45VWphQUxsL3gxV1VyQVFvOU0xbzErY2dkQXdXNCsveUQ4OGV3RUk4MDFmb3M4OHhhYnVJbW9EYVRWUFRVWDRVRlBBdGNEaDd3dnR6ejlrKzZSZXpVZWVUS2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg4NDE2CWZpbGU6S2FkcmZvbGRfMC4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4wClRXL0V3dkxQV29KWjhqS21TWXlibmtQMklrQ09qR0RtNW93UUZ2YlVTZXJZM0NVc05KSFRoMXBmR2FjdEdDUkw2dVhRaFVMYTd5NExJa2htdXFiTERnPT0K",
+      "url": "https://github.com/Crimyan/kadrfold/releases/download/v0.1.0-beta/Kadrfold_0.1.0_x64-setup.exe"
+    }
+  }
+}
