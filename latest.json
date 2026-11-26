@@ -1,0 +1,11 @@
+{
+  "version": "0.1.2",
+  "notes": "- Napisy: wybór stylu czcionki (Light, Regular, Bold i inne, które ma czcionka) i kursywy. Podgląd i eksport używają tego samego pliku czcionki.\n- Napisy: grubość obrysu dla całego napisu i osobno dla aktywnego słowa.\n- Podgląd: przybliżanie kółkiem myszy, dopasowanie Shift+Z albo Ctrl+0, 100% Ctrl+1, przesuwanie ze spacją.\n- Inspektor i Kolor: reset każdej sekcji i „Resetuj wszystko”.\n- Pytanie o zapis przed aktualizacją jest zawsze na wierzchu.\n- Przy pierwszym pobraniu modelu program pyta o folder i pokazuje wolne miejsce.",
+  "pub_date": "2026-11-26T13:52:47Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNFU2MW45VWphQUZHR3dtSG15K3pKYVNiR0RpL3llc3cya2tzTWtKNTNWdWoyZGlmdmRpalBZVm5HNFJtY3RGR1pwblRlT29hNFphQU9lWVA5T2N1VW0zazIyY0VIQXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzAwMjczCWZpbGU6S2FkcmZvbGRfMC4xLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4yCkM5cENUR21KTUUxMEdQRmt2QU5qVmcrWW01enNURXFUaWV0aEpjZE55U0k3TmZKSU9qS1YxMjF0Z3lrYzZMNDdpd0hyemt5YUN5VWV5Q3hoN3Q4MkJ3PT0K",
+      "url": "https://github.com/Crimyan/kadrfold/releases/download/v0.1.2-beta/Kadrfold_0.1.2_x64-setup.exe"
+    }
+  }
+}
